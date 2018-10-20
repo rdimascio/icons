@@ -1,1 +1,13 @@
-<svg width="16" height="16" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid"><defs><linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="a"><stop stop-color="#0091E6" offset="0%"/><stop stop-color="#0079BF" offset="100%"/></linearGradient></defs><rect fill="url(#a)" width="256" height="256" rx="25"/><rect fill="#FFF" x="144.64" y="33.28" width="78.08" height="112" rx="12"/><rect fill="#FFF" x="33.28" y="33.28" width="78.08" height="176" rx="12"/></svg>
+<svg viewBox="0 0 16 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#0091E6" offset="0%"></stop>
+            <stop stop-color="#0079BF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g transform="translate(0.000000, 0.889100)">
+        <rect fill="url(#linearGradient-1)" x="0" y="0" width="16" height="16" rx="1.5625"></rect>
+        <rect fill="#FFFFFF" x="9.04" y="2.08" width="4.88" height="7" rx="0.75"></rect>
+        <rect fill="#FFFFFF" x="2.08" y="2.08" width="4.88" height="11" rx="0.75"></rect>
+    </g>
+</svg>
